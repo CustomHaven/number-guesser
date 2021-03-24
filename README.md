@@ -18,6 +18,6 @@ JavaScript - The Behaviour for the Webpage - The DOM (Document Object Model), Fu
 
 ## Launch
 
-The page link is [html page](customhaven.github.io/rock-paper-scissors/) when you land on the page you think you can beat us (the computer)? Well try and input your number between 0 to 9 to have your good chance off winning.
+The page link is [html page](https://customhaven.github.io/number-guesser/) when you land on the page you think you can beat us (the computer)? Well try and input your number between 0 to 9 to have your good chance off winning.
 
 After you made your guess press **Next Round** to **reset** the game.
